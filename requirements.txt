@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+streamlit
+flask
+requests
+shap
+joblib
